@@ -1,0 +1,6 @@
+# Some useful commands to manage ubuntu servers
+1. Add users to a server
+2. SSH remote
+3. Filrewall rules
+4. Manage nginx
+5. Start, stop systemd services.
